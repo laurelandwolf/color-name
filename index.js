@@ -48,7 +48,7 @@ module.exports = {
 	"Floral White": [255, 250, 240],
 	"Forest Green": [34, 139, 34],
 	"Fuchsia": [255, 0, 255],
-	"Gains Boro": [220, 220, 220],
+	"Gainsboro": [220, 220, 220],
 	"Ghost White": [248, 248, 255],
 	"Gold": [255, 215, 0],
 	"Goldenrod": [218, 165, 32],
